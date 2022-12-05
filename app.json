@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pokemonapi",
-    "slug": "snack-0638194c-e694-45d4-9669-f17dbc6261f1",
+    "name": "pokeapiReactNative",
+    "slug": "pokeapiReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
